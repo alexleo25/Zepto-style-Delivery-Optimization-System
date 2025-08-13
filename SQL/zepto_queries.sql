@@ -309,7 +309,7 @@ from orders o
 join agents a
 on o.delivery_agent_id=a.agent_id
 join deliveries d
-on o.order_id=d.order_id;
+on o.order_id=d.order_id
 
 
 
