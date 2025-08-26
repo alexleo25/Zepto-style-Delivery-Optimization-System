@@ -8,8 +8,11 @@ The main idea was to see how deliveries, agents, and zones perform, and to pract
 ## 📂 PROJECT STRUCTURE  
 
 data/ → contains all CSV files (agents, customers, orders, order_items, products, deliveries)
+
 python/ → Jupyter Notebook with data analysis
+
 sql/ → SQL queries for different business questions
+
 powerbi/ → Power BI dashboard file (.pbix)
 
 
